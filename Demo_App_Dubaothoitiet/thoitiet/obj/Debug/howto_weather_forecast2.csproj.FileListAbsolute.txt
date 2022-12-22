@@ -1,0 +1,8 @@
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\bin\Debug\howto_weather_forecast2.exe
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\bin\Debug\howto_weather_forecast2.pdb
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.csprojResolveAssemblyReference.cache
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.Form1.resources
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.csproj.GenerateResource.Cache
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.exe
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.pdb

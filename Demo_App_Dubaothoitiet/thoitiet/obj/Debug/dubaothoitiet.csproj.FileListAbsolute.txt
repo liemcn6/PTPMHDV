@@ -1,0 +1,15 @@
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\bin\Debug\Du bao thoi tiet.exe
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\bin\Debug\Du bao thoi tiet.pdb
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\dubaothoitiet.csproj.GenerateResource.Cache
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\Du bao thoi tiet.exe
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\Du bao thoi tiet.pdb
+C:\Users\nguyenthao\Downloads\howto_weather_forecast2\obj\Debug\dubaothoitiet.Form1.resources
+C:\Users\FX505\Desktop\codedemo\thoitiet\obj\Debug\Du bao thoi tiet.exe
+C:\Users\FX505\Desktop\codedemo\thoitiet\obj\Debug\Du bao thoi tiet.pdb
+C:\Users\FX505\Desktop\codedemo\thoitiet\bin\Debug\Du bao thoi tiet.exe
+C:\Users\FX505\Desktop\codedemo\thoitiet\bin\Debug\Du bao thoi tiet.pdb
+C:\Users\FX505\Desktop\codedemo\thoitiet\obj\Debug\dubaothoitiet.csprojResolveAssemblyReference.cache
+C:\Users\FX505\Desktop\codedemo\thoitiet\obj\Debug\dubaothoitiet.Form1.resources
+C:\Users\FX505\Desktop\codedemo\thoitiet\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\FX505\Desktop\codedemo\thoitiet\obj\Debug\dubaothoitiet.csproj.GenerateResource.Cache
